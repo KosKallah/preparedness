@@ -2,5 +2,5 @@
 requires = ["setuptools", "wheel", "tensorflow", "pandas"]
 
 [project]
-name = "your-package-name"
+name = "preparedness"
 version = "0.1"
